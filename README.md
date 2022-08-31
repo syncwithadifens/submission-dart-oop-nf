@@ -1,2 +1,3 @@
-Bentuk OOP dari gambar berikut:
+# Bentuk OOP dari gambar berikut:
+
 ![](assets/gambaran.png)
